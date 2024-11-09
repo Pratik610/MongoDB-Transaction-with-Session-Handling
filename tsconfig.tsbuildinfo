@@ -1,0 +1,1 @@
+{"root":["./src/constants.ts","./src/server.ts","./src/config/db.ts","./src/config/token.ts","./src/controllers/accountcontrollers.ts","./src/controllers/usercontrollers.ts","./src/middleware/auth.ts","./src/routes/accountroutes.ts","./src/routes/userroutes.ts","./src/schema/accountschema.ts","./src/schema/userschema.ts"],"version":"5.6.3"}
